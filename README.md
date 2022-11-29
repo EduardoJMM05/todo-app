@@ -27,3 +27,5 @@ npm start
 -   Agregar un CRUD
 -   Manejo de inicio de sesión
 -   Depliegue
+
+![Último commit](https://img.shields.io/github/last-commit/EduardoMorales-LX/todo-app?label=%C3%9Altimo%20commit&style=flat-square)​
