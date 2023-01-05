@@ -24,8 +24,13 @@ npm start
 
 ## Futuras mejoras
 
--   Agregar un CRUD
--   Manejo de inicio de sesión
--   Depliegue
+-   [ ] Agregar un CRUD
+-   [ ] Manejo de inicio de sesión
+-   [ ] Diseño del Header
+    -   [x] Implementación del UI de Header **(04/01/2023)**
+    -   [ ] Implementación del menú desplegable
+    -   [ ] Diseño del formulario de inicio de sesión
+    -   [ ] Diseño del formulario de registro
+-   [ ] Depliegue
 
 ![Último commit](https://img.shields.io/github/last-commit/EduardoMorales-LX/todo-app?label=%C3%9Altimo%20commit&style=flat-square)​
